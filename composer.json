@@ -1,13 +1,7 @@
 {
-    "name": "yooper/stop-words",
+    "name": "batdan/stop-words",
     "description": "Stop words ",
     "license": "Apache2",
-    "authors": [
-        {
-            "name": "yooper",
-            "email": "dcardin2007@gmail.com"
-        }
-    ],
     "autoload": {
         "files": ["src/StopWordFactory.php"]
     }
